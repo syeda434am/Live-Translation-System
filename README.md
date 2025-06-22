@@ -1,7 +1,7 @@
 # Live Translation System
 
-<a href="https://vitaflex-ai.onrender.com/">
-  <img src="/public/lt.jpeg" alt="Live Demo" width="100" />
+<a>
+  <img src="/public/lt.jpeg" width="100" />
 </a>
 
 ## About the System
