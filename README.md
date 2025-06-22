@@ -1,7 +1,7 @@
 # Live Translation System
 
 <a>
-  <img src="/public/lt.jpeg" width="300" />
+  <img src="/public/lt.jpeg" width="400" />
 </a>
 
 ## About the System
