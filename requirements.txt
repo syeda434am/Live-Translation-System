@@ -1,0 +1,10 @@
+huggingface_hub
+onnxruntime
+tqdm
+sounddevice
+numpy
+aiohttp
+python-dotenv
+requests
+websockets
+pyinstaller
